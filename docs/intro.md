@@ -3,11 +3,11 @@ sidebar_position: 1
 slug: '/'
 ---
 
-# Home
+# Home {#home}
 
 Welcome to **ZPTX DevGuide**!
 
-## Who is this for?
+## Who is this for? {#who-is-this-for}
 
 This guide is intended for anyone who needs help with:
 
@@ -17,6 +17,6 @@ This guide is intended for anyone who needs help with:
 
 For help with using our bots, please refer to [**ZPTX Guide**](https://guide.zptx.dev).
 
-## Getting started
+## Getting started {#getting-started}
 
 Refer to the sidebar for a list of topics.
